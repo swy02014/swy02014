@@ -3,7 +3,7 @@
 I'm Min Kyeong Jun, a passionate developer interested in Python. Welcome to my GitHub profile!
 
 <!-- 기술 스택 -->
-## Tech Stack
+## Tech Stack🤗
 - Languages: Python, JavaScript
 - Frameworks: 
 - Databases: 
